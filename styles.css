@@ -58,7 +58,7 @@ ul{
 .Showcase{
     width: 100%;
     height: 550px;
-    background: url("./img/Fondo4.jpg") no-repeat center center/cover;
+    background: url("./Fondo4.jpg") no-repeat center center/cover;
     padding-bottom: 50px;
     display: flex;
     flex-direction: column;
@@ -121,7 +121,7 @@ hr{
 .carta-baner-one{
     width: 100%;
     height: 350px;
-    background: url("./img/Fondo4.jpg");
+    background: url("./Fondo4.jpg");
     margin-bottom: 40px;
 }
 .carta-baner-one p,
@@ -131,7 +131,7 @@ hr{
 .carta-baner-two{
     width: 100%;
     height:  350px;
-    background: url("./img/Fondo4.jpg") no-repeat center center/cover; 
+    background: url("./Fondo4.jpg") no-repeat center center/cover; 
 }
 .carta-baner-two .content{
     width: 50%;
